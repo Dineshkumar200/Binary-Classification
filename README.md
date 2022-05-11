@@ -54,7 +54,7 @@ pyplot.show()
 
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
 
-<br/><br/><br/>![Screenshot 2022-04-19 181426](https://user-images.githubusercontent.com/75235789/164007332-2abc23be-5eb9-47c2-b4c6-7cc71e601bc2.jpg)
+<br/>![Screenshot 2022-04-19 181426](https://user-images.githubusercontent.com/75235789/164007332-2abc23be-5eb9-47c2-b4c6-7cc71e601bc2.jpg)
 
 
 
